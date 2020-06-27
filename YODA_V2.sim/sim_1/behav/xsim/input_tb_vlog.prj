@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../YODA_V2.srcs/sources_1/imports/sources/BCD_Decoder.v" \
+"../../../../YODA_V2.srcs/sources_1/imports/sources_1/imports/new/Debounce.v" \
+"../../../../YODA_V2.srcs/sources_1/new/DisplayDriver.v" \
+"../../../../YODA_V2.srcs/sources_1/imports/Input_module.v" \
+"../../../../YODA_V2.srcs/sources_1/imports/sources/PWM.v" \
+"../../../../YODA_V2.srcs/sources_1/new/SW_to_BCD.v" \
+"../../../../YODA_V2.srcs/sim_1/new/input_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

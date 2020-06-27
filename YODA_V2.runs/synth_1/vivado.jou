@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Jun 27 23:14:24 2020
+# Process ID: 6864
+# Current directory: C:/Users/reese/OneDrive/Documents/University/EEE4120F/YODA_V2/YODA_V2.runs/synth_1
+# Command line: vivado.exe -log Input_module.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Input_module.tcl
+# Log file: C:/Users/reese/OneDrive/Documents/University/EEE4120F/YODA_V2/YODA_V2.runs/synth_1/Input_module.vds
+# Journal file: C:/Users/reese/OneDrive/Documents/University/EEE4120F/YODA_V2/YODA_V2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Input_module.tcl -notrace

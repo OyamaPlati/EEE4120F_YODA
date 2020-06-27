@@ -1,0 +1,92 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Default Case
+Default Case
+Default Case
+Default Case
+Default Case
+Default Case
+Default Case
+Default Case
+Default Case
+Default Case
+Default Case
+Enter Pattern Address :0000000000000000
+	Pattern Address :0000000000000000	Switch Input:0010	 
+
+Enter Pattern Address :0000000000100000
+	Pattern Address :0000000000100000	Switch Input:0011	 
+
+Enter Pattern Address :0000001000110000
+	Pattern Address :0000001000110000	Switch Input:0100	 
+
+Enter Pattern Address :0010001101000000
+	Pattern Address :0010001101000000	Switch Input:0100	 
+
+Enter Pattern Address :0010001101000100
+	Pattern Address :0010001101000100	Switch Input:0100	 
+
+Enter Pattern Address :0010001101000100
+	Pattern Address :0010001101000100	Switch Input:0100	 
+
+Enter Pattern Address :0010001101000100
+	Pattern Address :0010001101000100	Switch Input:0100	 
+
+Enter Pattern Address :0010001101000100
+	Pattern Address :0010001101000100	Switch Input:0100	 
+
+Enter Pattern Address :0010001101000100
+	Pattern Address :0010001101000100	Switch Input:0100	 
+
+Enter Pattern Address :0010001101000100
+	Pattern Address :0010001101000100	Switch Input:0010	 
+
+Enter Pattern Address :0010001101000010
+Enter Pattern Length : 0000000000000000
+	Pattern Length :0000000000000000	Switch Input:1101	 
+
+Enter Pattern Length : 0000000011010000
+	Pattern Length :0000000011010000	Switch Input:0101	 
+
+Enter Pattern Length : 0000110101010000
+	Pattern Length :0000110101010000	Switch Input:0111	 
+
+Enter Pattern Length : 1101010101110000
+	Pattern Length :1101010101110000	Switch Input:0111	 
+
+Enter Pattern Length : 1101010101110111
+	Pattern Length :1101010101110111	Switch Input:1100	 
+
+Enter Pattern Length : 1101010101111100
+Enter Memory Address :
+	Memory Address :0000000000000000	Switch Input:1111	 
+
+Enter Memory Address :
+	Memory Address :0000000011110000	Switch Input:0000	 
+
+Enter Memory Address :
+	Memory Address :0000111100000000	Switch Input:1000	 
+
+Enter Memory Address :
+	Memory Address :1111000010000000	Switch Input:1000	 
+
+Enter Memory Address :
+	Memory Address :1111000010001000	Switch Input:0101	 
+
+Enter Memory Address :
+Enter Memory Block Length :
+	Memory Block Length :0000000000000000		to_display:0000
+
+Enter Memory Block Length :
+	Memory Block Length :0000000011110000		to_display:000f
+
+Enter Memory Block Length :
+	Memory Block Length :0000111101010000		to_display:00f5
+
+Enter Memory Block Length :
+	Memory Block Length :1111010110000000	Switch Input:1000	 
+
+Enter Memory Block Length :
+	Memory Block Length :1111010110001000	Switch Input:1100	 
+
+Enter Memory Block Length :
